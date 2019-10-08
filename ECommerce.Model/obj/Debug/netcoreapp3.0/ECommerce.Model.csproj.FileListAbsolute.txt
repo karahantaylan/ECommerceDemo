@@ -1,0 +1,8 @@
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Model\bin\Debug\netcoreapp3.0\ECommerce.Model.deps.json
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Model\bin\Debug\netcoreapp3.0\ECommerce.Model.dll
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Model\bin\Debug\netcoreapp3.0\ECommerce.Model.pdb
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Model\obj\Debug\netcoreapp3.0\ECommerce.Model.AssemblyInfoInputs.cache
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Model\obj\Debug\netcoreapp3.0\ECommerce.Model.AssemblyInfo.cs
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Model\obj\Debug\netcoreapp3.0\ECommerce.Model.dll
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Model\obj\Debug\netcoreapp3.0\ECommerce.Model.pdb
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Model\obj\Debug\netcoreapp3.0\ECommerce.Model.csprojAssemblyReference.cache

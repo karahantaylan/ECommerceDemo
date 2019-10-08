@@ -1,0 +1,11 @@
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Context\bin\Debug\netcoreapp2.1\ECommerce.Context.deps.json
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Context\bin\Debug\netcoreapp2.1\ECommerce.Context.dll
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Context\bin\Debug\netcoreapp2.1\ECommerce.Context.pdb
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Context\bin\Debug\netcoreapp2.1\ECommerce.Model.dll
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Context\bin\Debug\netcoreapp2.1\ECommerce.Model.pdb
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Context\obj\Debug\netcoreapp2.1\ECommerce.Context.csprojAssemblyReference.cache
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Context\obj\Debug\netcoreapp2.1\ECommerce.Context.AssemblyInfoInputs.cache
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Context\obj\Debug\netcoreapp2.1\ECommerce.Context.AssemblyInfo.cs
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Context\obj\Debug\netcoreapp2.1\ECommerce.Context.csproj.CopyComplete
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Context\obj\Debug\netcoreapp2.1\ECommerce.Context.dll
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Context\obj\Debug\netcoreapp2.1\ECommerce.Context.pdb

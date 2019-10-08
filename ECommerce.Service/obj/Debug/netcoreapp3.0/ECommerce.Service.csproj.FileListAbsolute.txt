@@ -1,0 +1,13 @@
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\bin\Debug\netcoreapp3.0\ECommerce.Service.deps.json
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\bin\Debug\netcoreapp3.0\ECommerce.Service.dll
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\bin\Debug\netcoreapp3.0\ECommerce.Service.pdb
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\bin\Debug\netcoreapp3.0\ECommerce.Context.dll
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\bin\Debug\netcoreapp3.0\ECommerce.Model.dll
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\bin\Debug\netcoreapp3.0\ECommerce.Context.pdb
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\bin\Debug\netcoreapp3.0\ECommerce.Model.pdb
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\obj\Debug\netcoreapp3.0\ECommerce.Service.csprojAssemblyReference.cache
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\obj\Debug\netcoreapp3.0\ECommerce.Service.AssemblyInfoInputs.cache
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\obj\Debug\netcoreapp3.0\ECommerce.Service.AssemblyInfo.cs
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\obj\Debug\netcoreapp3.0\ECommerce.Service.csproj.CopyComplete
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\obj\Debug\netcoreapp3.0\ECommerce.Service.dll
+C:\Users\tayla\source\repos\ECommerce.WebAPI\ECommerce.Service\obj\Debug\netcoreapp3.0\ECommerce.Service.pdb
